@@ -1,7 +1,7 @@
-Dwnld expy Hsh,enc,dwn <URL>,<URL>,<URL>,<URL>,<URL>;
-Dwnld expy Hsh,enc,dwn <URL>,<URL>,<URL>, <URL>,<URL>;
-Dwnld expy Hsh,enc,dwn <URL>,<URL>,<URL>, <URL>,<URL>;
+Dwnld expy Hsh,enc,dwnld <URL>,<URL>,<URL>,<URL>,<URL>;
+Dwnld expy Hsh,enc,dwnld <URL>,<URL>,<URL>, <URL>,<URL>;
+Dwnld expy Hsh,enc,dwnld <URL>,<URL>,<URL>, <URL>,<URL>;
 Dwnld expy 0 <URL>,<URL> ,<URL>,<URL>, <URL>;
-Dwnld expy Hsh,enc,dwn <URL>,<URL> ,<URL>,<URL>, <URL>;
+Dwnld expy Hsh,enc,dwnld <URL>,<URL> ,<URL>,<URL>, <URL>;
 Dwnld expy 0 <URL>,<URL> ,<URL>,<URL>, <URL>;
-Dwnld expy Hsh,enc,dwn <URL>,<URL> ,<URL>,<URL>, <URL>;
+Dwnld expy Hsh,enc,dwnld <URL>,<URL> ,<URL>,<URL>, <URL>;
